@@ -1,6 +1,6 @@
 # Buffer Overflow Demonstration and Explanation
 
-This repository contains the source code and examples used in the article on buffer overflow. The goal is to provide a practical demonstration of buffer overflow vulnerabilities, explain their mechanisms, and offer insights into mitigating such issues in software development.
+This repository contains the source code and examples used in the article on buffer overflow https://medium.com/gitconnected/buffer-overflow-for-beginners-edf9f9d593e2 . The goal is to provide a practical demonstration of buffer overflow vulnerabilities, explain their mechanisms, and offer insights into mitigating such issues in software development.
 
 ## Table of Contents
 
@@ -28,9 +28,7 @@ The repository includes the following:
 2. **Exploiting a Vulnerability:**
     - Code showing how an attacker might exploit a poorly secured program.
 
-## Setup and Usage
-
-### Prerequisites
+## Prerequisites
 
 - A C/C++ compiler (e.g., GCC).
 - A Linux-based system is recommended for running examples.
