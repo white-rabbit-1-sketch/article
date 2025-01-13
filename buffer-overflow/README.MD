@@ -36,6 +36,7 @@ The repository includes the following:
 ## Disclaimer
 
 This repository is intended for educational purposes only. The examples demonstrate security vulnerabilities and should not be used maliciously. Use this knowledge to improve software security and protect against similar attacks.
+The author does not take responsibility for any misuse or illegal activities. Always act responsibly and within the boundaries of the law.
 
 ## License
 
